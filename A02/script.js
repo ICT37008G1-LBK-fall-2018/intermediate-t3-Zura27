@@ -13,7 +13,6 @@ document.getElementById("highlight-product").onclick = function(){
 		}
 	}
 
-
 	if (status == 0) {
 		alert('ჩანაწერი ვერ მოიძებნა')
 	}
